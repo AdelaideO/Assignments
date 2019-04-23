@@ -1,0 +1,30 @@
+/*.rest1 {
+	background-color: #bdeaee;
+	color:  #4b3832 ;
+	border: 2px solid black;
+	padding: 30px;
+	margin: 20px;
+	border-radius: 15px 50px;
+	width: 700px;
+ 	height: 700px;
+	
+}
+
+ .rest2{
+	font-family: tisa;
+	color: #4b3832;
+}
+
+
+ h3{
+ 	border-bottom: .5px solid black;
+
+ }*/
+
+ .card-img-top {
+ 	width: 100%;
+ 	height: 31vw;
+ 	object-fit: cover;
+ }
+
+
